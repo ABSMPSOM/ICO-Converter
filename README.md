@@ -87,7 +87,7 @@ Output will be available in the `dist/` folder.
 ## 📸 Preview
 
 > Clean UI + drag & drop + live logs
-> (Add screenshot here for better presentation)
+
 
 ---
 
